@@ -277,12 +277,3 @@ Este projeto foi desenvolvido com finalidade **acadêmica**, buscando colocar em
 * Pedro
 * Willian
 * Paloma
-
----
-
-## 📌 Status do projeto
-
-**Concluído / Em desenvolvimento**
-
-> Projeto acadêmico desenvolvido em Python para gerenciamento de medicamentos.
-
